@@ -1,0 +1,8 @@
+
+# Instalar dependencias necesarias
+npm init -y
+npm install express mongodb dotenv
+
+iniciar proyecto
+
+node app.js
